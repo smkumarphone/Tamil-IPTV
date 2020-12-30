@@ -3,7 +3,7 @@
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1,7S Music
-https://m-c049-j2apps.s.llnwi.net/hls/1493.7SMusic.in_360p/index.m3u8
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 #EXTINF:-1,Aarya Premiere HD
 http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
@@ -34,6 +34,9 @@ https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
 
 #EXTINF:-1,IBC Kids
 https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+
+#EXTINF:-1,IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music.m3u8
 
 #EXTINF:-1,IBC Tamil
 https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8
