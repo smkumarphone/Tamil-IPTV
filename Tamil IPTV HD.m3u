@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png",ADHAVAN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Tamil;Local",AARYA PREMIERE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://7starcloud.in/ACNCINEMA.png",ACN CINEMA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+
+#EXTINF:-1 group-title="Tamil;Local" tvg-logo="http://abcmedias.com/ACNMUSICLOGO_V2_00000.png",ACN MUSIC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Tamil;Local",ANALAI EXPRESS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://eu.streamjo.com/sarastv/sarastv.m3u8
+
+#EXTINF:-1 group-title="Tamil;Local",ARASAN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+
+#EXTINF:-1,group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TVI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1, group-title="Tamil;Local" tvg-logo="http://sangamamtv.com/images/logo%20header%20banner.png",SANGAMAM HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
