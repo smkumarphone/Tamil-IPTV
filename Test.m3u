@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:SD Channels
+#EXTINF:-1 tvg-id="" tvg-name="3 Tamil TV" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" tvg-country="IN" tvg-url="" group-title="Entertainment",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
